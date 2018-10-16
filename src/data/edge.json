@@ -1,0 +1,2123 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SN" : "PMNTN_SN",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MNTN_NM" : "MNTN_NM",
+    "PMNTN_NM" : "PMNTN_NM",
+    "PMNTN_MAIN" : "PMNTN_MAIN",
+    "PMNTN_LT" : "PMNTN_LT",
+    "PMNTN_DFFL" : "PMNTN_DFFL",
+    "PMNTN_UPPL" : "PMNTN_UPPL",
+    "PMNTN_GODN" : "PMNTN_GODN",
+    "PMNTN_MTRQ" : "PMNTN_MTRQ",
+    "PMNTN_CNRL" : "PMNTN_CNRL",
+    "PMNTN_CLS_" : "PMNTN_CLS_",
+    "PMNTN_RISK" : "PMNTN_RISK",
+    "PMNTN_RECO" : "PMNTN_RECO",
+    "DATA_STDR_" : "DATA_STDR_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPolyline",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SN",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SN"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PMNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PMNTN_MAIN",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_MAIN",
+      "length" : 200
+    },
+    {
+      "name" : "PMNTN_LT",
+      "type" : "esriFieldTypeSingle",
+      "alias" : "PMNTN_LT"
+    },
+    {
+      "name" : "PMNTN_DFFL",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_DFFL",
+      "length" : 8
+    },
+    {
+      "name" : "PMNTN_UPPL",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_UPPL"
+    },
+    {
+      "name" : "PMNTN_GODN",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_GODN"
+    },
+    {
+      "name" : "PMNTN_MTRQ",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_MTRQ",
+      "length" : 200
+    },
+    {
+      "name" : "PMNTN_CNRL",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_CNRL",
+      "length" : 1
+    },
+    {
+      "name" : "PMNTN_CLS_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_CLS_",
+      "length" : 1
+    },
+    {
+      "name" : "PMNTN_RISK",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_RISK",
+      "length" : 200
+    },
+    {
+      "name" : "PMNTN_RECO",
+      "type" : "esriFieldTypeString",
+      "alias" : "PMNTN_RECO",
+      "length" : 1
+    },
+    {
+      "name" : "DATA_STDR_",
+      "type" : "esriFieldTypeString",
+      "alias" : "DATA_STDR_",
+      "length" : 10
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SN" : 31769,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.14,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 2,
+        "PMNTN_GODN" : 2,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328482.12940000091,
+              614252.89530000277
+            ],
+            [
+              328624.75710000098,
+              614244.2666000016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SN" : 31770,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 3.53,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 62,
+        "PMNTN_GODN" : 44,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328162.36090000067,
+              616421.75679999962
+            ],
+            [
+              326017.55590000097,
+              618522.53540000133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SN" : 31771,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 3.37,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 59,
+        "PMNTN_GODN" : 42,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326027.86600000132,
+              618658.98460000381
+            ],
+            [
+              324486.57240000088,
+              621016.53889999911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SN" : 31772,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 4.54,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 80,
+        "PMNTN_GODN" : 56,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328526.5410000002,
+              619075.50130000152
+            ],
+            [
+              328394.93010000046,
+              615936.77459999919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SN" : 31773,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 3.08,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 54,
+        "PMNTN_GODN" : 38,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328526.5410000002,
+              619075.50130000152
+            ],
+            [
+              326027.86600000132,
+              618658.98460000381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SN" : 31774,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "설악동구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 7.64,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 287,
+        "PMNTN_GODN" : 201,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328624.75710000098,
+              614244.2666000016
+            ],
+            [
+              330615.96750000119,
+              620039.37370000407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SN" : 31775,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.18,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 21,
+        "PMNTN_GODN" : 15,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              329120.03440000024,
+              619994.44899999909
+            ],
+            [
+              328526.5410000002,
+              619075.50130000152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SN" : 31776,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "설악동구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.37,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 24,
+        "PMNTN_GODN" : 17,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              329120.03440000024,
+              619994.44899999909
+            ],
+            [
+              330268.32840000186,
+              620363.54340000264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SN" : 31777,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 4.93,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 87,
+        "PMNTN_GODN" : 61,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "422100901"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324486.57240000088,
+              621016.53889999911
+            ],
+            [
+              329120.03440000024,
+              619994.44899999909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SN" : 31778,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 7.02,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 124,
+        "PMNTN_GODN" : 87,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              323359.23150000069,
+              611735.61620000377
+            ],
+            [
+              327970.42169999983,
+              614498.93860000186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SN" : 31779,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.61,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 11,
+        "PMNTN_GODN" : 8,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              327970.42169999983,
+              614498.93860000186
+            ],
+            [
+              328482.12940000091,
+              614252.89530000277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SN" : 31780,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.56,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 10,
+        "PMNTN_GODN" : 7,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              327731.2575000003,
+              614948.66719999909
+            ],
+            [
+              327970.42169999983,
+              614498.93860000186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SN" : 31781,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.97,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 17,
+        "PMNTN_GODN" : 12,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              327731.2575000003,
+              614948.66719999909
+            ],
+            [
+              326924.02020000108,
+              615276.88510000147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SN" : 31782,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.19,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 3,
+        "PMNTN_GODN" : 2,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326924.02020000108,
+              615276.88510000147
+            ],
+            [
+              326827.97630000021,
+              615413.41040000133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SN" : 31783,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.37,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 24,
+        "PMNTN_GODN" : 17,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326827.97630000021,
+              615413.41040000133
+            ],
+            [
+              326630.33210000116,
+              616559.58770000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SN" : 31784,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 3.71,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 65,
+        "PMNTN_GODN" : 46,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326827.97630000021,
+              615413.41040000133
+            ],
+            [
+              324085.56450000219,
+              617284.28289999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SN" : 31785,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.18,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 21,
+        "PMNTN_GODN" : 15,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328422.61510000098,
+              615741.62510000169
+            ],
+            [
+              327731.2575000003,
+              614948.66719999909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SN" : 31786,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.22,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 4,
+        "PMNTN_GODN" : 3,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328422.61510000098,
+              615741.62510000169
+            ],
+            [
+              328394.93010000046,
+              615936.77459999919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SN" : 31787,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.03,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 1,
+        "PMNTN_GODN" : 0,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328394.93010000046,
+              615936.77459999919
+            ],
+            [
+              328378.30989999883,
+              615959.82840000279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SN" : 31788,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.71,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 13,
+        "PMNTN_GODN" : 9,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328378.30989999883,
+              615959.82840000279
+            ],
+            [
+              328162.36090000067,
+              616421.75679999962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SN" : 31789,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.53,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 9,
+        "PMNTN_GODN" : 7,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328378.30989999883,
+              615959.82840000279
+            ],
+            [
+              328162.36090000067,
+              616421.75679999962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SN" : 31790,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "한계리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 2.42,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 91,
+        "PMNTN_GODN" : 64,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              318122.46789999865,
+              616057.40090000071
+            ],
+            [
+              317652.56700000074,
+              614138.10950000025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SN" : 31791,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "한계리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 9.02,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 271,
+        "PMNTN_GODN" : 189,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              318122.46789999865,
+              616057.40090000071
+            ],
+            [
+              322981.131500002,
+              612040.01270000264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SN" : 31792,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 4.17,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 74,
+        "PMNTN_GODN" : 52,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              318122.46789999865,
+              616057.40090000071
+            ],
+            [
+              320707.91629999969,
+              618397.64920000173
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SN" : 31793,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 2.11,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 37,
+        "PMNTN_GODN" : 26,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326630.33210000116,
+              616559.58770000003
+            ],
+            [
+              328422.61510000098,
+              615741.62510000169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SN" : 31794,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 2.35,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 41,
+        "PMNTN_GODN" : 29,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326630.33210000116,
+              616559.58770000003
+            ],
+            [
+              325146.8104000017,
+              617690.68370000087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SN" : 31795,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 4.69,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 83,
+        "PMNTN_GODN" : 58,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              323975.23300000094,
+              617198.5577000007
+            ],
+            [
+              326924.02020000108,
+              615276.88510000147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SN" : 31796,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 2.92,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 52,
+        "PMNTN_GODN" : 36,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324085.56450000219,
+              617284.28289999999
+            ],
+            [
+              326630.33210000116,
+              616559.58770000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SN" : 31797,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.15,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 3,
+        "PMNTN_GODN" : 2,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324076.83320000023,
+              617303.33290000074
+            ],
+            [
+              323975.23300000094,
+              617198.5577000007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SN" : 31798,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.02,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 1,
+        "PMNTN_GODN" : 0,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324076.83320000023,
+              617303.33290000074
+            ],
+            [
+              324085.56450000219,
+              617284.28289999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SN" : 31799,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.05,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 19,
+        "PMNTN_GODN" : 13,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324775.33459999971,
+              617558.12720000185
+            ],
+            [
+              324076.83320000023,
+              617303.33290000074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SN" : 31800,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.77,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 31,
+        "PMNTN_GODN" : 22,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324775.33459999971,
+              617558.12720000185
+            ],
+            [
+              323305.17779999971,
+              617644.85490000062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SN" : 31801,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.95,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 17,
+        "PMNTN_GODN" : 12,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              323305.17779999971,
+              617644.85490000062
+            ],
+            [
+              323975.23300000094,
+              617198.5577000007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SN" : 31802,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.4,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 7,
+        "PMNTN_GODN" : 5,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              325146.8104000017,
+              617690.68370000087
+            ],
+            [
+              324775.33459999971,
+              617558.12720000185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SN" : 31803,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.96,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 35,
+        "PMNTN_GODN" : 24,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              321747.17230000068,
+              617989.92810000293
+            ],
+            [
+              323305.17779999971,
+              617644.85490000062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SN" : 31804,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 5.67,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 100,
+        "PMNTN_GODN" : 70,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              321747.17230000068,
+              617989.92810000293
+            ],
+            [
+              325999.29960000049,
+              618503.48530000076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SN" : 31805,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.09,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 19,
+        "PMNTN_GODN" : 13,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              320975.78770000022,
+              618293.75560000353
+            ],
+            [
+              321747.17230000068,
+              617989.92810000293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SN" : 31806,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 4.89,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 86,
+        "PMNTN_GODN" : 60,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              320975.78770000022,
+              618293.75560000353
+            ],
+            [
+              324486.57240000088,
+              621016.53889999911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SN" : 31807,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.3,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 5,
+        "PMNTN_GODN" : 4,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              320707.91629999969,
+              618397.64920000173
+            ],
+            [
+              320975.78770000022,
+              618293.75560000353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SN" : 31808,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.3,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 23,
+        "PMNTN_GODN" : 16,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              325999.29960000049,
+              618503.48530000076
+            ],
+            [
+              325146.8104000017,
+              617690.68370000087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SN" : 31809,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.03,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 1,
+        "PMNTN_GODN" : 0,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              325999.29960000049,
+              618503.48530000076
+            ],
+            [
+              326017.55590000097,
+              618522.53540000133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SN" : 31810,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.14,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 2,
+        "PMNTN_GODN" : 2,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              326017.55590000097,
+              618522.53540000133
+            ],
+            [
+              326027.86600000132,
+              618658.98460000381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SN" : 31811,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "용대리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.48,
+        "PMNTN_DFFL" : "중간",
+        "PMNTN_UPPL" : 10,
+        "PMNTN_GODN" : 7,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              324486.57240000088,
+              621016.53889999911
+            ],
+            [
+              324660.66330000199,
+              621448.75400000066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SN" : 31812,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "용대리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 8.16,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 306,
+        "PMNTN_GODN" : 214,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              314031.06950000022,
+              621105.95590000041
+            ],
+            [
+              318122.46789999865,
+              616057.40090000071
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SN" : 31813,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "용대리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 7.09,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 125,
+        "PMNTN_GODN" : 88,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428103001"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              318952.56900000107,
+              622164.43799999915
+            ],
+            [
+              320707.91629999969,
+              618397.64920000173
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SN" : 31814,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "오색리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.68,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 42,
+        "PMNTN_GODN" : 29,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              332012.35050000064,
+              611075.6363999974
+            ],
+            [
+              331987.34059999976,
+              609431.440200001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SN" : 31815,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 2.97,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 52,
+        "PMNTN_GODN" : 37,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              332012.35050000064,
+              611075.6363999974
+            ],
+            [
+              330766.16050000116,
+              613117.16550000012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SN" : 31816,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.02,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 1,
+        "PMNTN_GODN" : 0,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              332001.60190000013,
+              611096.4617999997
+            ],
+            [
+              332012.35050000064,
+              611075.6363999974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SN" : 31817,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "오색리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.5,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 9,
+        "PMNTN_GODN" : 7,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              332001.60190000013,
+              611096.4617999997
+            ],
+            [
+              331636.90600000136,
+              611374.88070000149
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SN" : 31818,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : "오색리구간",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 4.02,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 71,
+        "PMNTN_GODN" : 50,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              329508.38900000043,
+              612910.62540000118
+            ],
+            [
+              329084.52560000028,
+              609338.74330000207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SN" : 31819,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 0.93,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 16,
+        "PMNTN_GODN" : 11,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              329508.38900000043,
+              612910.62540000118
+            ],
+            [
+              329452.0326000005,
+              613790.10220000148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SN" : 31820,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 2.53,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 45,
+        "PMNTN_GODN" : 31,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              330766.16050000116,
+              613117.16550000012
+            ],
+            [
+              332001.60190000013,
+              611096.4617999997
+            ]
+          ]
+        ]
+      }
+      
+    },
+   {
+      "attributes": {
+        "FID": 52,
+        "PMNTN_SN": 31821,
+        "MNTN_CODE": "428302602",
+        "MNTN_NM": "설악산_대청봉",
+        "PMNTN_NM": " ",
+        "PMNTN_MAIN": " ",
+        "PMNTN_LT": 1.54,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 27,
+        "PMNTN_GODN": 19,
+        "PMNTN_MTRQ": " ",
+        "PMNTN_CNRL": " ",
+        "PMNTN_CLS_": " ",
+        "PMNTN_RISK": " ",
+        "PMNTN_RECO": " ",
+        "DATA_STDR_": "2016-12-31",
+        "MNTN_ID": "428302601"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              329452.0326000005,
+              613790.10220000148
+            ],
+            [
+              330766.16050000116,
+              613117.16550000012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SN" : 31822,
+        "MNTN_CODE" : "428302602",
+        "MNTN_NM" : "설악산_대청봉",
+        "PMNTN_NM" : " ",
+        "PMNTN_MAIN" : " ",
+        "PMNTN_LT" : 1.24,
+        "PMNTN_DFFL" : "쉬움",
+        "PMNTN_UPPL" : 22,
+        "PMNTN_GODN" : 15,
+        "PMNTN_MTRQ" : " ",
+        "PMNTN_CNRL" : " ",
+        "PMNTN_CLS_" : " ",
+        "PMNTN_RISK" : " ",
+        "PMNTN_RECO" : " ",
+        "DATA_STDR_" : "2016-12-31",
+        "MNTN_ID" : "428302601"
+      },
+      "geometry" : {
+        "paths" : [
+          [
+            [
+              328852.75020000059,
+              613920.27740000188
+            ],
+            [
+              329508.38900000043,
+              612910.62540000118
+            ]
+          ]
+        ]
+      }
+    },
+        {
+      "attributes": {
+        "FID": 54,
+        "PMNTN_SN": 31823,
+        "MNTN_CODE": "428302602",
+        "MNTN_NM": "설악산_대청봉",
+        "PMNTN_NM": " ",
+        "PMNTN_MAIN": " ",
+        "PMNTN_LT": 0.62,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 11,
+        "PMNTN_GODN": 8,
+        "PMNTN_MTRQ": " ",
+        "PMNTN_CNRL": " ",
+        "PMNTN_CLS_": " ",
+        "PMNTN_RISK": " ",
+        "PMNTN_RECO": " ",
+        "DATA_STDR_": "2016-12-31",
+        "MNTN_ID": "428302601"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              328852.75020000059,
+              613920.27740000188
+            ],
+            [
+              329452.0326000005,
+              613790.10220000148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 55,
+        "PMNTN_SN": 31824,
+        "MNTN_CODE": "428302602",
+        "MNTN_NM": "설악산_대청봉",
+        "PMNTN_NM": " ",
+        "PMNTN_MAIN": " ",
+        "PMNTN_LT": 0.41,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 7,
+        "PMNTN_GODN": 5,
+        "PMNTN_MTRQ": " ",
+        "PMNTN_CNRL": " ",
+        "PMNTN_CLS_": " ",
+        "PMNTN_RISK": " ",
+        "PMNTN_RECO": " ",
+        "DATA_STDR_": "2016-12-31",
+        "MNTN_ID": "428302601"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              328624.75710000098,
+              614244.2666000016
+            ],
+            [
+              328852.75020000059,
+              613920.27740000188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 56,
+        "PMNTN_SN": 31825,
+        "MNTN_CODE": "428302602",
+        "MNTN_NM": "설악산_대청봉",
+        "PMNTN_NM": "오색리구간",
+        "PMNTN_MAIN": " ",
+        "PMNTN_LT": 4.71,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 83,
+        "PMNTN_GODN": 58,
+        "PMNTN_MTRQ": " ",
+        "PMNTN_CNRL": " ",
+        "PMNTN_CLS_": " ",
+        "PMNTN_RISK": " ",
+        "PMNTN_RECO": " ",
+        "DATA_STDR_": "2016-12-31",
+        "MNTN_ID": "428302601"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              328482.12940000091,
+              614252.89530000277
+            ],
+            [
+              327121.80400000047,
+              610391.21660000086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
