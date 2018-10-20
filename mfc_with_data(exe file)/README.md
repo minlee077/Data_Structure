@@ -1,4 +1,4 @@
 <h1>실행방법</h1>
 
-동일 디렉토리에 <h5>edge.json</h5>, <h5>node.json</h5> 과 <h5>mfc.exe</h5> 파일을 받은 후 <h5>mfc.exe</h5>파일을 실행하시면 됩니다.
+동일 디렉토리에 <h5>edge.json, node.json과 mfc.exe</h5> 파일들을 받은 후 mfc.exe파일을 실행하시면 됩니다.
 <br> 상대 경로로 읽어오는 데이터를 지정해두어서 데이터 파일을 다른 디렉토리에 두거나 받지 않으면, 맵을 생성하는 Road map action이 수행되지 않습니다.
